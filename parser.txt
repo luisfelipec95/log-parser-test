@@ -3,7 +3,7 @@ ok /not really/
 # match line starting with 'error ', case-insensitive
 error /(?i)^error /
 error /Error/
-error /Failed
+error /Failed/
 error /ValueError/
 error /Theme not found/
 error /fatal
