@@ -1,7 +1,7 @@
 ok /not really/
 
 # match line starting with 'error ', case-insensitive
-error /(?i)^error /Error/ Error /ValueError/ValueError /Theme not found/fatal/fatal /
+error /(?i)^error /Error/ Error /ValueError/ValueError /Theme not found/fatal/fatal /(?i)^fatal/
 
 # list of warnings here...
 warning /[Ww]arning/
