@@ -6,7 +6,7 @@ error /Error/
 error /Failed/
 error /ValueError/
 error /Theme not found/
-error /fatal
+error /fatal/
 
 # list of warnings here...
 warning /[Ww]arning/
